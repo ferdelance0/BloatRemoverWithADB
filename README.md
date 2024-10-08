@@ -13,7 +13,6 @@ This script automates the process of removing bloatware from Xiaomi devices. It 
 ## Requirements
 
 - A PC running Windows
-- Android Debug Bridge (ADB) platform tools installed
 - Xiaomi device with USB Debugging enabled
   - To enable USB Debugging:
     1. Go to **Settings** > **About phone** and tap on **MIUI version** 7 times to enable Developer Mode.
@@ -21,9 +20,9 @@ This script automates the process of removing bloatware from Xiaomi devices. It 
 
 ## How to Use
 
-1. **Download ADB Platform Tools**
+1. **Download BloatRemoverWithADB**
 
-   - If you haven't installed ADB platform tools, download them from the [official Android developer site](https://developer.android.com/studio/releases/platform-tools).
+   - Clone the BloatRemoverWithADB repo
 
 2. **Prepare Your Device**
 
